@@ -24,4 +24,4 @@ def extend(perm, n):
             perm.pop()
 
 
-extend(perm = [], n = 20)
+extend(perm = [], n = 8)
